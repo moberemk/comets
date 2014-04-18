@@ -1,0 +1,10 @@
+Issues
+------
+
+- Cannot use a dash in a template name; would be nice?
+- No clear way to exclude files from the build path; a naming convention such as underscored names would be ideal here? Or maybe just store them in an outside directory
+
+Coolness
+--------
+
+- Holy shit it reloads the page when I edit files this is witchcraft
