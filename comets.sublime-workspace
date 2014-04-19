@@ -1,0 +1,2313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"labe",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - text"
+			],
+			[
+				"ul",
+				"ul	<ul>"
+			],
+			[
+				"prot",
+				"proto	Prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"proud",
+				"product-list"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"sect",
+				"section	Tag"
+			],
+			[
+				"features",
+				"features-list"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"second",
+				"secondary-blue"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"stat",
+				"stat3"
+			],
+			[
+				"section",
+				"section	<section>"
+			],
+			[
+				"dis",
+				"dismiss"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"base",
+				"base-font"
+			],
+			[
+				"scri",
+				"script	Tag"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"titl",
+				"title	Attr"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"fons",
+				"font-style"
+			],
+			[
+				"backgroon",
+				"background-color"
+			],
+			[
+				"scre",
+				"screen-sm"
+			],
+			[
+				"scred",
+				"screen-md-max"
+			],
+			[
+				"screem",
+				"screen-sm"
+			],
+			[
+				"sec",
+				"section	Tag"
+			],
+			[
+				"addres",
+				"address-card-extended"
+			],
+			[
+				"infowi",
+				"infowindow"
+			],
+			[
+				"proo",
+				"prototype"
+			],
+			[
+				"pl",
+				"placeholder	%placeholder"
+			],
+			[
+				"organization",
+				"contact_organization"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"cont",
+				"contact_organization"
+			],
+			[
+				"pos",
+				"_POST"
+			],
+			[
+				"recpt",
+				"recaptcha_challenge_field"
+			],
+			[
+				"webkit-tran",
+				"webkit-transition"
+			],
+			[
+				"origi",
+				"originalPosition"
+			],
+			[
+				"posit",
+				"positionClass"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"activein",
+				"activeIndicators"
+			],
+			[
+				"lb",
+				"label_descriptor"
+			],
+			[
+				"descr",
+				"descriptor"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"child",
+				"child"
+			],
+			[
+				"background",
+				"backgroundNode"
+			],
+			[
+				"descri",
+				"descriptor"
+			],
+			[
+				"activeI",
+				"activeIndicator"
+			],
+			[
+				"drawful",
+				"drawFullObjective"
+			],
+			[
+				"draw",
+				"drawStackedIndicator"
+			],
+			[
+				"categoryobj",
+				"category_objectives"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"drawc",
+				"drawFullCategory"
+			],
+			[
+				"categr",
+				"category"
+			],
+			[
+				"categorgroup",
+				"categoryGroup"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"category",
+				"activeCategory"
+			],
+			[
+				"layer",
+				"objectsLayer"
+			],
+			[
+				"impact",
+				"impact_diagram"
+			],
+			[
+				"indica",
+				"indicator"
+			],
+			[
+				"objecied",
+				"objective_id"
+			],
+			[
+				"objectiveid",
+				"objective_id"
+			],
+			[
+				"objectivied",
+				"objective_id"
+			],
+			[
+				"d",
+				"dir"
+			],
+			[
+				"debu",
+				"debugMode"
+			],
+			[
+				"rect",
+				"Rect"
+			],
+			[
+				"categor",
+				"category"
+			],
+			[
+				"maindb",
+				"maindb_connect_start"
+			],
+			[
+				"retu",
+				"returned"
+			],
+			[
+				"retur",
+				"returned"
+			],
+			[
+				"owner",
+				"owned_indicators"
+			],
+			[
+				"Appl",
+				"Application"
+			],
+			[
+				"viewmodel",
+				"viewmodel"
+			],
+			[
+				"Acti",
+				"Action_model"
+			],
+			[
+				"unwr",
+				"unwrapObservable"
+			],
+			[
+				"unwar",
+				"unwrapObservable"
+			],
+			[
+				"view",
+				"viewURL"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"searchb",
+				"searchbar"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"Cate",
+				"Category_model"
+			],
+			[
+				"object",
+				"objectives"
+			],
+			[
+				"filter",
+				"filterWords"
+			],
+			[
+				"arrayf",
+				"array_filter"
+			],
+			[
+				"objec",
+				"objectives"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"indicat",
+				"indicator_id"
+			],
+			[
+				"Forecas",
+				"Forecast_model"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"goals",
+				"goal_and_actuals"
+			],
+			[
+				"ED",
+				"Edge_model"
+			],
+			[
+				"suces",
+				"success_thresh"
+			],
+			[
+				"fre",
+				"forecast"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"Edge",
+				"Edge_model"
+			],
+			[
+				"objecti",
+				"Objective_model"
+			],
+			[
+				"succs",
+				"success"
+			],
+			[
+				"succe",
+				"successCount"
+			],
+			[
+				"overflo",
+				"overflow-y"
+			],
+			[
+				"observab",
+				"observableArray"
+			],
+			[
+				"collection",
+				"collectionObservable"
+			],
+			[
+				"resiz",
+				"resize"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"warningmes",
+				"clearWarningMessage"
+			],
+			[
+				"userdata",
+				"userdata"
+			],
+			[
+				"indicaor",
+				"indicator_id"
+			],
+			[
+				"spread",
+				"SpreadsheetReader"
+			],
+			[
+				"Indicator",
+				"Indicator_model"
+			],
+			[
+				"Preference",
+				"Preferences_model"
+			],
+			[
+				"obsera",
+				"observable"
+			],
+			[
+				"sprite",
+				"spriteSizes"
+			],
+			[
+				"trendspr",
+				"trendSpriteAnimations"
+			],
+			[
+				"midwa",
+				"midway-light"
+			],
+			[
+				"COll",
+				"Collection"
+			],
+			[
+				"indicatori",
+				"indicator_id"
+			],
+			[
+				"indicator",
+				"indicator_id"
+			],
+			[
+				"Actual",
+				"Actual_model"
+			],
+			[
+				"Indicat",
+				"Indicator_model"
+			],
+			[
+				"array",
+				"Array"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"has",
+				"hash"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "neotweet.html",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "neotweet.js",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/TweetInput/tweetInput.js",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/TweetInput/template.html",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/Tweets/template.html",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/TweetInput/style.css",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "private/Notes",
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Unix",
+				"name": "Issues"
+			}
+		}
+	],
+	"build_system": "Packages/User/Grunt.sublime-build",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"Wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"browse remo",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"proed",
+				"Project: Edit"
+			],
+			[
+				"projed",
+				"Project: Edit"
+			],
+			[
+				"edit remo",
+				"SFTP: Edit Remote Mapping…"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove page",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack c",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"prefersublimeli",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"trea",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"war",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pluginb",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"snippet",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enc",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lint",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"save",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"next",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"next ",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"grutn",
+				"Grunt"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"nex",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"nexter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"linter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"installap",
+				"Package Control: Install Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"packinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"openfi",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"noscroll",
+				"Snippet: overflow:scroll"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"echo",
+				"Package Control: Add Channel"
+			],
+			[
+				"enti",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"eno",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"encoe",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wrp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"if",
+				"Snippet: if"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein ",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"warp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrapse",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/moberemk/Sites/neotweet/neotweet.sublime-project",
+		"/Users/moberemk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/moberemk/Sites/neotweet/.meteor/local/build/programs/client/app/client/TweetInput/tweetInput.js",
+		"/Users/moberemk/Sites/neotweet/neotweet.css",
+		"/Users/moberemk/Sites/neotweet/.meteor/local/build/programs/ctl/npm/livedata/main/node_modules/sockjs/lib/trans-websocket.js",
+		"/Users/moberemk/Sites/neotweet/private",
+		"/Users/moberemk/Sites/mysite/.gitignore",
+		"/Users/moberemk/Sites/mysite/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+		"/Users/moberemk/Sites/mysite/node_modules/grunt/node_modules/.bin/nopt",
+		"/Users/moberemk/Sites/mysite/sftp-config.json",
+		"/Users/moberemk/Sites/mysite/css/_social-buttons.scss",
+		"/Users/moberemk/Sites/mysite/css/style.min.css",
+		"/Users/moberemk/Sites/mysite.sublime-project",
+		"/Users/moberemk/Sites/mysite/css/normalize.min.css",
+		"/Users/moberemk/Sites/mysite/css/main.css",
+		"/Users/moberemk/Sites/mysite/index.php",
+		"/Users/moberemk/Sites/sftp-config.json",
+		"/Users/moberemk/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Volumes/htdocs/web-component-stub/node_modules/bower/node_modules/update-notifier/node_modules/request/tests/server.js",
+		"/Volumes/htdocs/web-component-stub/node_modules/bower/lib/util/semver.js",
+		"/Volumes/htdocs/web-component-stub/node_modules/bower/node_modules/mkdirp/test/umask_sync.js",
+		"/Volumes/htdocs/web-component-stub/node_modules/bower/lib/commands/uninstall.js",
+		"/Volumes/htdocs/web-component-stub/node_modules/bower/node_modules/.bin/semver",
+		"/Volumes/htdocs/web-component-stub/src/main.js",
+		"/Users/moberemk/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/moberemk/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Volumes/htdocs/cws2013/css/style.scss",
+		"/Volumes/htdocs/cws2013/services/research.php",
+		"/Volumes/htdocs/cws2013/services/index.php",
+		"/Volumes/htdocs/cws2013/services/education.php",
+		"/Volumes/htdocs/cws2013/services/consulting.php",
+		"/Volumes/htdocs/cws2013/products/works.php",
+		"/Volumes/htdocs/cws2013/products/performance.php",
+		"/Volumes/htdocs/cws2013/products/gis.php",
+		"/Volumes/htdocs/cws2013/products/cpa.php",
+		"/Volumes/htdocs/cws2013/products/ta.php",
+		"/Volumes/htdocs/cws2013/gruntfile.js",
+		"/Volumes/htdocs/cws2013/index.php",
+		"/Volumes/htdocs/cws2013/includes/footer.php",
+		"/Volumes/htdocs/cws2013/events.php",
+		"/Volumes/htdocs/cws2013/contact.php",
+		"/F/xampp/htdocs/v4/index.php",
+		"/C/Users/MarkWork/AppData/Local/Temp/Temp1_jquery.hammer.js-master.zip/jquery.hammer.js-master/jquery.hammer-full.js",
+		"/F/xampp/htdocs/cws2013/css/style.scss",
+		"/F/xampp/htdocs/cws2013/adaptive-images.php",
+		"/F/xampp/htdocs/cws2013/js/analytics.js",
+		"/F/xampp/htdocs/cws2013/js/ui/affix.js",
+		"/F/xampp/htdocs/cws2013/products/ta.php",
+		"/F/xampp/htdocs/cws2013/services/research.php",
+		"/F/xampp/htdocs/cws2013/services/education.php",
+		"/F/xampp/htdocs/cws2013/services/consulting.php",
+		"/F/xampp/htdocs/cws2013/products/index.php",
+		"/F/xampp/htdocs/cws2013/contact.php",
+		"/F/xampp/htdocs/cws2013/services/index.php",
+		"/F/xampp/htdocs/cws2013/products/cpa.php",
+		"/F/xampp/htdocs/cws2013/includes/footer.php",
+		"/F/xampp/htdocs/cws2013/products/performance.php",
+		"/F/xampp/htdocs/cws2013/includes/config.php",
+		"/F/xampp/htdocs/cws2013/products/works.php",
+		"/F/xampp/htdocs/cws2013/products/gis.php",
+		"/F/xampp/htdocs/cws2013/includes/pmail/class.phpmailer.php",
+		"/F/xampp/htdocs/cws2013/img/splash/attributions.txt",
+		"/F/xampp/htdocs/cws2013/gruntfile.js",
+		"/F/xampp/htdocs/cws2013/includes/recaptchalib.php",
+		"/F/xampp/htdocs/cws2013/404.php",
+		"/F/xampp/htdocs/cws2013/.htaccess",
+		"/F/xampp/htdocs/cws2013/events.php",
+		"/F/xampp/htdocs/cws2013/includes/navbar.php",
+		"/F/xampp/htdocs/cws2013/index.php",
+		"/F/xampp/php/php.ini",
+		"/F/xampp/htdocs/cws2013/includes/head.php",
+		"/F/xampp/htdocs/cws2013/includes/footer_scripts.php",
+		"/F/xampp/htdocs/cws2013/js/ui/counter-animate.js",
+		"/F/xampp/apache/conf/httpd.conf",
+		"/C/Users/MarkWork/AppData/Local/Temp/7zO094AA6B0/V3_AUTH (1).sql",
+		"/F/xampp/mysql/bin/my.ini",
+		"/F/_xampp/php/php.ini",
+		"/F/xampp/htdocs/cws2013/js/ui/smoothScroll.js",
+		"/F/xampp/htdocs/cws2013-proj.sublime-project",
+		"/F/xampp/htdocs/cws2013/js/isArray.js",
+		"/Volumes/htdocs/cws2013/js/ui/smoothScroll.js",
+		"/Volumes/htdocs/cws2013/js/ui/gallery.min.js",
+		"/Volumes/htdocs/cws2013/js/ui/gallery.js",
+		"/Volumes/htdocs/cws2013/css/_screen.scss",
+		"/Volumes/htdocs/cws2013/js/jquery-1.11.min.js",
+		"/Volumes/htdocs/cws2013-proj.sublime-project",
+		"/Volumes/htdocs/cws2013/js/isArray.js",
+		"/Volumes/htdocs/cws2013/js/ui/fadeInSequence.js",
+		"/Volumes/htdocs/cws2013/includes/navbar.php",
+		"/Volumes/htdocs/cws2013/css/style.css",
+		"/F/xampp/htdocs/cws2013/js/ui/numberToCommaString.js",
+		"/F/xampp/htdocs/cws2013/js/respond.js",
+		"/F/xampp/htdocs/cws2013/cae3a21e-0a1f-4375-a05a-ed20d3cb10e3.dmp",
+		"/F/xampp/htdocs/cws2013/ai-cache/.htaccess",
+		"/F/xampp/htdocs/ai-cache/.htaccess",
+		"/F/xampp/htdocs/.htaccess",
+		"/F/xampp/htdocs/cws2013/services.php",
+		"/F/xampp/htdocs/cws2013/css/_screen.scss",
+		"/F/xampp/htdocs/cws2013/error-500.php",
+		"/F/xampp/htdocs/cws2013/img/.htaccess",
+		"/F/xampp/htdocs/cws2013/img/adaptive-images.php",
+		"/F/xampp/htdocs/cws2013/js/html5shiv.js",
+		"/F/xampp/htdocs/performance/assets/js/ui/bootstrap.js",
+		"/F/xampp/htdocs/performance/assets/js/lodash.js",
+		"/F/xampp/htdocs/cws2013/js/ui/fadeInSequence.js",
+		"/F/xampp/htdocs/cws2013/products.php",
+		"/F/xampp/htdocs/cws2013/js/ui/gallery.js",
+		"/F/xampp/htdocs/cws2013/js/ui/stellar.js",
+		"/F/xampp/htdocs/cws2013/js/jquery-1.11.js",
+		"/C/Users/MarkWork/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/F/xampp/htdocs/cws2013/map.php",
+		"/C/Users/MarkWork/Downloads/2014-02-20 V3_LBSA Asset Sync 3-V3_LBSA.sql",
+		"/C/Users/MarkWork/Downloads/icomoon/style.css",
+		"/C/Users/MarkWork/Downloads/icomoon/demo-files/demo.css",
+		"/C/Users/MarkWork/Desktop/_readme_first.txt",
+		"/F/xampp/htdocs/cws2013/js/ui/watchViewport.js",
+		"/F/xampp/htdocs/cws2013/js/scripts.min.js",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/examples/sub_commands.js",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/action/version.js",
+		"/F/xampp/htdocs/cws2013/js/flot/jquery.flot.animator.js",
+		"/F/xampp/htdocs/cws2013/.sass-cache/d125300cb501d8675ca555bed87363f121a1b5e6/_a.scssc",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/node_modules/findup-sync/node_modules/lodash/dist/lodash.compat.min.js",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/node_modules/js-yaml/lib/js-yaml/type/float.js",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/example/line_count_options.js",
+		"/F/xampp/htdocs/cws2013/includes/pmail/PHPMailerAutoload.php",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/package.json",
+		"/F/xampp/htdocs/cws2013/node_modules/grunt/node_modules/.bin/nopt",
+		"/F/xampp/htdocs/cws2013/js/flot/jquery.flot.growgraf.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"",
+			"F:\\xampp\\htdocs\\performance\\application\\models",
+			"models",
+			"",
+			"F:\\xampp\\htdocs\\performance\\application\\models",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ignore",
+			"green-mid",
+			"jsonSuccess",
+			"skill",
+			"mid",
+			"dark",
+			"transition",
+			"path",
+			"border: ",
+			".icon",
+			"fill:",
+			"background-color",
+			"@extend %border-box;\n",
+			"border-box",
+			"html5",
+			"TA",
+			"filmstrip",
+			"product-list",
+			".blurb",
+			"sharpen",
+			"product-list",
+			".blurb",
+			".content",
+			"content",
+			".content",
+			"content-group",
+			".jobs",
+			"’",
+			"“",
+			"”",
+			"        <header>\n            <h2>Services</h2>\n        </header>",
+			"-",
+			"’",
+			"header",
+			"h3",
+			"h4",
+			"h3",
+			"h4",
+			"h3",
+			"h4",
+			"h3",
+			"h4",
+			".product",
+			".features",
+			"h4",
+			"header",
+			"h3",
+			"subpage",
+			"memory",
+			"url_Base",
+			"/cws2013/",
+			"url_Base",
+			"img",
+			"/cws2013/",
+			"/cws2013",
+			"/cws2013/",
+			".active",
+			":before",
+			".icon",
+			"mod_filter",
+			"reporting",
+			"lifetime",
+			"root",
+			".events",
+			"h2",
+			"display: none",
+			"h2",
+			"h3",
+			"h1",
+			"id=\"footer_menu",
+			"4rem",
+			"headers",
+			"stats-row",
+			"body",
+			"body {",
+			"console.",
+			"jswatch",
+			"jsfiles",
+			"carousel-content",
+			"full-width-list",
+			"h1",
+			"events",
+			"footer_menu",
+			"footer",
+			"events",
+			"bike",
+			"border-radius",
+			"complete",
+			"completeCallback",
+			"toronto2",
+			"main-nav",
+			"main_nav",
+			"dismiss",
+			"document_root",
+			"_ROOT",
+			"cw-blue",
+			"lte IE8",
+			"rem",
+			":before",
+			"features",
+			"filter",
+			"features",
+			"opacity",
+			"cw-blue",
+			"stats-row",
+			"height",
+			"blurb",
+			".service",
+			"icon-compass",
+			"icon-",
+			"cw-blue",
+			"footer",
+			"#mail",
+			"contact",
+			"footer",
+			"carousel-content",
+			".content",
+			"min-height",
+			"navbar",
+			"form-field",
+			"#jobs",
+			"#mail",
+			"list-style:",
+			"br",
+			"card",
+			"position: absolute",
+			"text",
+			"{positionClass: ['fixed','top']}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"gallery",
+			"'",
+			"\"",
+			"        <header>\n            <h2><a href=\"<?php echo $url_base.'services'; ?>\">Services</a></h2>\n        </header>",
+			"",
+			"'",
+			"h4",
+			"h5",
+			"h4",
+			"h5",
+			"h4",
+			"h5",
+			"h4",
+			"h5",
+			"url_base",
+			"<?php echo $url_base; ?>",
+			"<?php echo $url_Base; ?>",
+			"h4",
+			"content-group",
+			"20%",
+			"$filtered_array['contact_name']",
+			"captcha-hide",
+			"@extend %clearfix",
+			"                <a class=\"quote\" href=\"#\">Request a Quote</a><a class=\"demo\" href=\"#\">Book a Demo</a>",
+			" data-stellar-ratio=\"0.6\"",
+			"data-stellar-vertical-offset",
+			"$self",
+			"img src=\"img/ta1.png\" alt=\"TA Screenshot\"",
+			"768px",
+			"min-width: 800px",
+			"min-width: 700px",
+			"",
+			"background-block",
+			"spriteSizes",
+			"overviewGraphOptions",
+			"graphOptions",
+			"options.layout.fontSize",
+			"options",
+			"indicator_id",
+			"objective_id",
+			"}\n\n  /**",
+			"indicator_id",
+			"object_id",
+			"objective_id",
+			"Application.logger(",
+			"this.permissionCache",
+			"kb.proxyCollectionObservable",
+			"CategoryViewModel",
+			"),\n",
+			")\n,",
+			"thresholds: {success: success_thresh, warning",
+			"kb.proxyCollectionObservable",
+			"kb.proxyObservable",
+			"kb.proxyCollectionObservable",
+			"kb.proxyObservable",
+			"kb.proxyCollectionObservable",
+			"kb.proxyObservable",
+			"toggleSearch",
+			".",
+			"protected $safe_keys",
+			"Application.logger",
+			"forecast",
+			"Forecast",
+			"forecast",
+			"forecast_date",
+			"'.DIRECTORY_SEPARATOR.'",
+			"models'.DIRECTORY_SEPARATOR.'",
+			"forecast",
+			"Forecast",
+			"debug",
+			"Application.logger",
+			"Application.debugger",
+			"debug",
+			"forecast",
+			"Forecast",
+			"forecast",
+			"Forecast",
+			"objective_template_edit",
+			"'.DIRECTORY_SEPARATOR.'css'.DIRECTORY_SEPARATOR.'",
+			"'.DIRECTORY_SEPARATOR.'js'.DIRECTORY_SEPARATOR.'",
+			"indicator_id",
+			"ApplicationConfiguration",
+			"	console.log(self.applicationPreferences);\nApplicationConfiguration",
+			"$this->activeUser",
+			"clearWarningMessage",
+			" self.spriteSizes",
+			"attrs",
+			"user_id",
+			"goals",
+			"/img/",
+			"$body-background",
+			"$black",
+			"cat-page",
+			"",
+			"$info",
+			"$bad",
+			"$warning",
+			"$good",
+			"$normal",
+			"$hover",
+			"$midway-dark",
+			"$midway",
+			"$midway-light",
+			"$dark",
+			"$light",
+			"E3E3E3",
+			"FAFAFA",
+			"<button class=\"btn\" data-bind=\"click: print\"><i class=\"icon-print\"></i> Print Report</button>",
+			"appLoaded",
+			"element",
+			"options.content",
+			"resource_id",
+			"$data[",
+			"",
+			"router.warningMessage",
+			"to_spacer_height",
+			"to_spacer_width",
+			"from_spacer_height",
+			"from_spacer_width",
+			"from",
+			"from_spacer_width",
+			"attributes",
+			"usableID()",
+			"self.children",
+			"45deg",
+			"",
+			"><"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "neotweet.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "neotweet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/TweetInput/tweetInput.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/TweetInput/template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/Tweets/template.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "client/TweetInput/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "private/Notes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								882,
+								882
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"auto_name": "Issues",
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"project": "neotweet.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"norm",
+				"css/_normalize.scss"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"services",
+				"services/research.php"
+			],
+			[
+				"ta",
+				"products/ta.php"
+			],
+			[
+				"styl",
+				"css/style.scss"
+			],
+			[
+				"works",
+				"products/works.php"
+			],
+			[
+				"cpa",
+				"products/cpa.php"
+			],
+			[
+				"tap",
+				"products/ta.php"
+			],
+			[
+				"foot",
+				"includes/footer.php"
+			],
+			[
+				"consu",
+				"services/consulting.php"
+			],
+			[
+				"jquery",
+				"js\\jquery-1.11.js"
+			],
+			[
+				"adap",
+				"adaptive-images.php"
+			],
+			[
+				"taph",
+				"products\\ta.php"
+			],
+			[
+				"taphp",
+				"products\\ta.php"
+			],
+			[
+				"servi",
+				"services\\consulting.php"
+			],
+			[
+				"style",
+				"css\\style.scss"
+			],
+			[
+				"servin",
+				"services\\index.php"
+			],
+			[
+				"prodin",
+				"products\\index.php"
+			],
+			[
+				"contac",
+				"contact.php"
+			],
+			[
+				"conta",
+				"contact.php"
+			],
+			[
+				"serviin",
+				"services\\index.php"
+			],
+			[
+				"events",
+				"events.php"
+			],
+			[
+				"con",
+				"contact.php"
+			],
+			[
+				"adapt",
+				"adaptive-images.php"
+			],
+			[
+				"gis",
+				"products\\gis.php"
+			],
+			[
+				"prodind",
+				"products\\index.php"
+			],
+			[
+				"stylsc",
+				"css\\style.scss"
+			],
+			[
+				"confi",
+				"includes\\config.php"
+			],
+			[
+				"service",
+				"services\\education.php"
+			],
+			[
+				"cp",
+				"products\\cpa.php"
+			],
+			[
+				"educ",
+				"services\\education.php"
+			],
+			[
+				"cont",
+				"contact.php"
+			],
+			[
+				"nav",
+				"includes\\navbar.php"
+			],
+			[
+				"404",
+				"404.php"
+			],
+			[
+				"head",
+				"includes\\head.php"
+			],
+			[
+				"navbar",
+				"includes\\navbar.php"
+			],
+			[
+				"scss",
+				"css\\style.scss"
+			],
+			[
+				"footesc",
+				"includes\\footer_scripts.php"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"footer_sc",
+				"includes\\footer_scripts.php"
+			],
+			[
+				"footer",
+				"includes\\footer.php"
+			],
+			[
+				"st",
+				"css\\style.scss"
+			],
+			[
+				"styls",
+				"css\\style.scss"
+			],
+			[
+				"grunt",
+				"gruntfile.js"
+			],
+			[
+				"isar",
+				"js/isArray.js"
+			],
+			[
+				"gru",
+				"gruntfile.js"
+			],
+			[
+				"galler",
+				"js/ui/gallery.js"
+			],
+			[
+				"serviind",
+				"services/index.php"
+			],
+			[
+				"consul",
+				"services\\consulting.php"
+			],
+			[
+				"reser",
+				"services\\research.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"navb",
+				"includes\\navbar.php"
+			],
+			[
+				"scre",
+				"css\\_screen.scss"
+			],
+			[
+				"produinde",
+				"products\\index.php"
+			],
+			[
+				"count",
+				"js\\ui\\counter-animate.js"
+			],
+			[
+				"scree",
+				"css\\_screen.scss"
+			],
+			[
+				"producin",
+				"products\\index.php"
+			],
+			[
+				"imght",
+				"img\\.htaccess"
+			],
+			[
+				"htacce",
+				"img\\.htaccess"
+			],
+			[
+				"contact",
+				"contact.php"
+			],
+			[
+				"aff",
+				"js\\ui\\affix.js"
+			],
+			[
+				"affix",
+				"js\\ui\\affix.js"
+			],
+			[
+				"na",
+				"includes\\navbar.php"
+			],
+			[
+				"producinde",
+				"products\\index.php"
+			],
+			[
+				"scroll",
+				"js\\ui\\smoothScroll.js"
+			],
+			[
+				"produc",
+				"products.php"
+			],
+			[
+				"jquer",
+				"js\\jquery-1.11.js"
+			],
+			[
+				"fo",
+				"includes\\footer.php"
+			],
+			[
+				"watch",
+				"js\\ui\\watchViewport.js"
+			],
+			[
+				"screnscs",
+				"css\\_screen.scss"
+			],
+			[
+				"indexp",
+				"index.php"
+			],
+			[
+				"animator",
+				"js\\flot\\jquery.flot.animator.js"
+			],
+			[
+				"counter",
+				"js\\ui\\counter-animate.js"
+			],
+			[
+				"numberc",
+				"js\\ui\\numberToCommaString.js"
+			],
+			[
+				"stylscss",
+				"css\\style.scss"
+			],
+			[
+				"stylscs",
+				"css\\style.scss"
+			],
+			[
+				"inedxphp",
+				"index.php"
+			],
+			[
+				"number",
+				"js\\ui\\numberToCommaString.js"
+			],
+			[
+				"indexh",
+				"index.php"
+			],
+			[
+				"stylescss",
+				"css\\style.scss"
+			],
+			[
+				"stellar",
+				"js\\ui\\stellar.js"
+			],
+			[
+				"gall",
+				"js\\ui\\gallery.js"
+			],
+			[
+				"nroma",
+				"utilities\\_normalize.scss"
+			],
+			[
+				"arti",
+				"_article.scss"
+			],
+			[
+				"objecviewmode",
+				"assets\\js\\viewmodels\\ObjectiveViewModels.js"
+			],
+			[
+				"indicatorviewmode",
+				"assets\\js\\viewmodels\\IndicatorViewModels.js"
+			],
+			[
+				"indicaview",
+				"application\\views\\pages\\indicator_view_template.php"
+			],
+			[
+				"assetphp",
+				"application\\config\\assets.php"
+			],
+			[
+				"lodash",
+				"assets\\js\\lodash.js"
+			],
+			[
+				"backbo",
+				"assets\\js\\backbone.js"
+			],
+			[
+				"objectiveviewmode",
+				"assets\\js\\viewmodels\\ObjectiveViewModels.js"
+			],
+			[
+				"backbonjs",
+				"assets\\js\\backbone.js"
+			],
+			[
+				"knockou",
+				"assets\\js\\knockout-3.0.0.debug.js"
+			],
+			[
+				"loda",
+				"assets\\js\\lodash.js"
+			],
+			[
+				"unders",
+				"node_modules\\grunt\\node_modules\\underscore.string\\test\\underscore.js"
+			],
+			[
+				"flot.resize",
+				"assets\\js\\flot\\jquery.flot.resize.js"
+			],
+			[
+				"viewindexphp",
+				"application\\views\\index.php"
+			],
+			[
+				"kineti",
+				"assets\\js\\ui\\kinetic.js"
+			],
+			[
+				"knockout",
+				"assets\\js\\knockout-3.0.0.debug.js"
+			],
+			[
+				"knock",
+				"assets\\js\\ui\\knockout-custom-bindings.js"
+			],
+			[
+				"genera",
+				"assets\\js\\viewmodels\\GeneralViewModels.js"
+			],
+			[
+				"screenscs",
+				"assets\\css\\screen.scss"
+			],
+			[
+				"objectviemode",
+				"assets\\js\\viewmodels\\ObjectiveViewModels.js"
+			],
+			[
+				"routerjs",
+				"assets\\js\\router.js"
+			],
+			[
+				"configass",
+				"application\\config\\development\\assets.php"
+			],
+			[
+				"assetsphp",
+				"application\\config\\development\\_assets.php"
+			],
+			[
+				"assetpsp",
+				"application\\config\\assets.php"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"basmode",
+				"application\\models\\base_model.php"
+			],
+			[
+				"loginphp",
+				"application\\controllers\\login.php"
+			],
+			[
+				"userviewmode",
+				"assets\\js\\viewmodels\\UserViewModels.js"
+			],
+			[
+				"usermodel",
+				"application\\models\\user_model.php"
+			],
+			[
+				"viewindexp",
+				"application\\views\\index.php"
+			],
+			[
+				"screens",
+				"assets\\css\\screen.scss"
+			],
+			[
+				"pushm",
+				"assets\\css\\_pushmenu.scss"
+			],
+			[
+				"autheh",
+				"assets\\js\\auth.helpers.js"
+			],
+			[
+				"loggerjs",
+				"assets\\js\\logger.js"
+			],
+			[
+				"kncoc",
+				"assets\\js\\ui\\knockout-custom-bindings.js"
+			],
+			[
+				"pushmenus",
+				"assets\\css\\_pushmenu.scss"
+			],
+			[
+				"scren",
+				"assets\\css\\screen.scss"
+			],
+			[
+				"stylescs",
+				"assets\\css\\style.css"
+			],
+			[
+				"menu",
+				"application\\views\\elements\\pushmenu_template.php"
+			],
+			[
+				"printscs",
+				"assets\\css\\print.scss"
+			],
+			[
+				"graph",
+				"application\\views\\elements\\graphs.php"
+			],
+			[
+				"helperjs",
+				"assets\\js\\helpers.js"
+			],
+			[
+				"objectviewmode",
+				"assets\\js\\viewmodels\\ObjectiveViewModels.js"
+			],
+			[
+				"viewinde",
+				"application\\views\\index.php"
+			],
+			[
+				"appljs",
+				"assets\\js\\application.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\xampp\\htdocs\\psd2013.sublime-project"
+			],
+			[
+				"markst",
+				"F:\\xampp\\htdocs\\markstyle.sublime-project"
+			],
+			[
+				"cityw",
+				"F:\\xampp\\htdocs\\cwsnew\\Citywide.sublime-project"
+			],
+			[
+				"swit",
+				"F:\\xampp\\htdocs\\switcher.sublime-project"
+			],
+			[
+				"psd",
+				"F:\\xampp\\htdocs\\psd2013.sublime-project"
+			],
+			[
+				"import",
+				"F:\\xampp\\htdocs\\importer\\importer.sublime-project"
+			],
+			[
+				"2013",
+				"F:\\xampp\\htdocs\\psd2013.sublime-project"
+			],
+			[
+				"tva",
+				"F:\\xampp\\htdocs\\flex\\TA v3.sublime-project"
+			],
+			[
+				"impo",
+				"F:\\xampp\\htdocs\\importer\\importer.sublime-project"
+			],
+			[
+				"psd20",
+				"F:\\xampp\\htdocs\\psd2013\\psd2013.sublime-project"
+			],
+			[
+				"psdnew",
+				"F:\\xampp\\htdocs\\psdnew\\PSDNew.sublime-project"
+			],
+			[
+				"impor",
+				"F:\\xampp\\htdocs\\importer\\importer.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

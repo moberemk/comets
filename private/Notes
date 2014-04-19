@@ -1,10 +1,13 @@
 Issues
 ------
 
-- Cannot use a dash in a template name; would be nice?
+- Cannot use a dash in a template name; would be nice, but I suppose it wouldn't play nicely with the Templates.templatename format.
+	- Proposed convention: camelCase template names, dash template classes? Although dashed CSS is more of a personal preference of mine
 - No clear way to exclude files from the build path; a naming convention such as underscored names would be ideal here? Or maybe just store them in an outside directory
 
 Coolness
 --------
 
-- Holy shit it reloads the page when I edit files this is witchcraft
+- Holy shit it reloads the page when I edit files this is witchcraft and I love it
+- Nigh-perfect component encapsulation might actually be possible??? Provided you make sure to properly namespace your CSS classes at least.
+	- This should be used with Polymer or xTags or hell even just regular web components someday? Although really one could argue this already DOES it basically wiht the way it's set up now.
